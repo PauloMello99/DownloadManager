@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vimeo.android.deeplink:vimeo-deeplink:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a00cc9e2e763b969498e70cbdafa439/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a00cc9e2e763b969498e70cbdafa439/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vimeo.android.deeplink/vimeo-deeplink/1.2.0/a89c4a2bfc45d95631c151924a175b559ef80c3c/vimeo-deeplink-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
